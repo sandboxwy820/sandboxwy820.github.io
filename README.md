@@ -9,7 +9,7 @@ My research interests include:
 - Large Language Models (LLMs)
   - Tool Learning & Tool Use
   - Function Calling & API Learning
-  - Planning & Complex Reasoning
+  - Planning & Reasoning
 - Reinforcement Learning (RL)
   - Deep Reinforcement Learning
   - Reward Modeling & Alignment
